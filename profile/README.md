@@ -1,6 +1,6 @@
 # Dazelf Labs Profile
 
-![Dazelf Labs Logo](https://pawanrajbhatta.com.np/public/uploads/dazelflabs-1692455474.png)
+![Dazelf Labs Logo](https://pawanrajbhatta.com.np/public/uploads/dazelflabs-1692455596.png)
 
 Welcome to the official profile of Dazelf Labs – Your Partner in Innovative Software Solutions!
 
