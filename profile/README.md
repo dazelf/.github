@@ -1,7 +1,5 @@
 # Dazelf Labs Profile
 
-![Dazelf Labs Logo](https://avatars.githubusercontent.com/u/142672266?s=400&u=7894f061382d690e8a4981713cb9f2f7d9fd193b&v=4)
-
 Welcome to the official profile of Dazelf Labs – Your Partner in Innovative Software Solutions!
 
 ## About Us
